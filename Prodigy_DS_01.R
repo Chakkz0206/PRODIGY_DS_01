@@ -1,3 +1,5 @@
+Task 1: A bar chart showing the distribution of a continuous variable.  
+
 library(tidyverse)
 setwd("C:\\Users\\sakth\\Desktop\\R programming")
 library(readxl)
